@@ -1,0 +1,6 @@
+#!/bin/bash
+ls -lna
+<<<<<<< HEAD
+=======
+
+>>>>>>> e4af30ea4b5273cb4fbaf96bfd6c65285252ba24
